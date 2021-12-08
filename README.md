@@ -6,9 +6,9 @@ Recently I made the definitive decision to shift my carreer from live experience
 The lack of live events recently gave me the perfect oppurtunity to attend [Codaisseur](https://codaisseur.com/)s fullstack development bootcamp, and deepdive into the programming world.
 Freshly graduated now I am now ready to kick of the carreer!
 
-## My projects :framed_picture:
+## My projects :open_file_folder:
 
-### MyRecipeBook
+### MyRecipeBook :stew:
 
 A place to store and browse through the recipes you collect.
 
@@ -38,3 +38,6 @@ The backend uses Express, JWT, Bcrypt, a PostgreSQL database with Sequelize ORM.
   <p>
   <a href="https://www.linkedin.com/in/mbrongers/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"     /><a>
   </p>
+
+
+:end:
