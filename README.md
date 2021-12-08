@@ -1,12 +1,12 @@
-# :raising_hand: Hey!
+# Hey! :raising_hand:
 
-## :handshake:My name is Michiel
+## My name is Michiel :handshake:
 
 Recently I made the definitive decision to shift my carreer from live experiences to online experiences.
 The lack of live events recently gave me the perfect oppurtunity to attend [Codaisseur](https://codaisseur.com/)s fullstack development bootcamp, and deepdive into the programming world.
 Freshly graduated now I am now ready to kick of the carreer!
 
-## :framed_picture:My projects
+## My projects :framed_picture:
 
 ### MyRecipeBook
 
@@ -16,7 +16,7 @@ At Codiasseur I built this full-stack web app for my portfolio. And I'm actually
 The frontend uses JavaScript, React, Redux, CSS React-bootstrap & additional libraries.
 The backend uses Express, JWT, Bcrypt, a PostgreSQL database with Sequelize ORM.
 
-## :brain: Stuff I know about
+## Stuff I know about :brain:
 
   <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -33,7 +33,7 @@ The backend uses Express, JWT, Bcrypt, a PostgreSQL database with Sequelize ORM.
   
   </p>
 
-## :dart: Find me
+## Find me :dart:
 
   <p>
   <a href="https://www.linkedin.com/in/mbrongers/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"     /><a>
