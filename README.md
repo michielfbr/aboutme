@@ -1,10 +1,16 @@
 # Hey! :raising_hand:
 
+[Me] (https://github.com/michielfbr#my-name-is-michiel-handshake) [Projects] (https://github.com/michielfbr#my-projects-open_file_folder) [Knowledge] (https://github.com/michielfbr#stuff-i-know-about-brain) [Contact] (https://github.com/michielfbr#find-me-dart)
+
+
+
 ## My name is Michiel :handshake:
 
 Recently I made the definitive decision to shift my carreer from live experiences to online experiences.
 The lack of live events recently gave me the perfect oppurtunity to attend [Codaisseur](https://codaisseur.com/)s fullstack development bootcamp, and deepdive into the programming world.
 Freshly graduated now I am now ready to kick of the carreer!
+
+
 
 ## My projects :open_file_folder:
 
@@ -18,7 +24,7 @@ The backend uses Express, JWT, Bcrypt, a PostgreSQL database with Sequelize ORM.
 
 The goal of this project was to design and create a fullstack web app from scratch. Witing user stories, modeling a database, creating wireframes, build your own backend with al the neccesary endpoints, build your own frontend to talk to the backend and present the user enything it needs and finally style everything to your own liking.
 
-A big portion of work has gone into the form, where a user can add of edit an {ingredient} to the [ingredients ] nestied in the {recipe}. In the backend the {recipe} is decomposed to the recipe table, the ingredients table and the join table wich holds the ingredients quantity and unit information.
+A big portion of work has gone into the form, where a user can add or edit an {ingredient} to the [ingredients ] nested in the {recipe}. In the backend the {recipe} is decomposed to the recipe table, the ingredients table and the join table wich holds the ingredients quantity and unit information.
 The app styling looks very clean and is responsive, wich is the result of quite some effort on details there.
 
 ### !Bored
@@ -31,6 +37,8 @@ It also estimates your location by your IP adress and shows you the current weat
 This group project was focussed more on gaining experience working as a team, and how to use branches on Github, than on techical complexity.
 
 After solving some issues we threw up for ourselves on Git, we even had some time left to start converting the thing to React Native.
+
+
 
 ## Stuff I know about :brain:
 
@@ -48,6 +56,8 @@ After solving some issues we threw up for ourselves on Git, we even had some tim
   ... and probably I'm forgetting to list something. And I'm ~not~ **never** done learning either!
   
   </p>
+
+
 
 ## Find me :dart:
 
