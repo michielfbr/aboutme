@@ -13,8 +13,24 @@ Freshly graduated now I am now ready to kick of the carreer!
 A place to store and browse through the recipes you collect.
 
 At Codiasseur I built this full-stack web app for my portfolio. And I'm actually using it for myself!
-The frontend uses JavaScript, React, Redux, CSS React-bootstrap & additional libraries.
+The frontend uses JavaScript, React, Redux, CSS React-bootstrap & additional libraries for auto complete forms (Typeahead) and a rich text editor (Quill).
 The backend uses Express, JWT, Bcrypt, a PostgreSQL database with Sequelize ORM.
+
+The goal of this project was to design and create a fullstack web app from scratch. Witing user stories, modeling a database, creating wireframes, build your own backend with al the neccesary endpoints, build your own frontend to talk to the backend and present the user enything it needs and finally style everything to your own liking.
+
+A big portion of work has gone into the form, where a user can add of edit an {ingredient} to the [ingredients ] nestied in the {recipe}. In the backend the {recipe} is decomposed to the recipe table, the ingredients table and the join table wich holds the ingredients quantity and unit information.
+The app styling looks very clean and is responsive, wich is the result of quite some effort on details there.
+
+### !Bored
+
+A simple tool to get activity suggestions when you're bored.
+
+Get a random activity from an existing API by the click of a button. If you don't like it; get another one. Or specify a category for the activity.
+It also estimates your location by your IP adress and shows you the current weather in an icon, using 2 other API's out there.
+
+This group project was focussed more on gaining experience working as a team, and how to use branches on Github, than on techical complexity.
+
+After solving some issues we threw up for ourselves on Git, we even had some time left to start converting the thing to React Native.
 
 ## Stuff I know about :brain:
 
@@ -38,6 +54,5 @@ The backend uses Express, JWT, Bcrypt, a PostgreSQL database with Sequelize ORM.
   <p>
   <a href="https://www.linkedin.com/in/mbrongers/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"     /><a>
   </p>
-
 
 :end:
