@@ -1,6 +1,6 @@
 # Hey! :raising_hand:
 
-[Me](https://github.com/michielfbr#my-name-is-michiel-handshake) [Projects](https://github.com/michielfbr#my-projects-open_file_folder) [Knowledge](https://github.com/michielfbr#stuff-i-know-about-brain) [Contact](https://github.com/michielfbr#find-me-dart)
+[Me](https://github.com/michielfbr#my-name-is-michiel-handshake) • [Projects](https://github.com/michielfbr#my-projects-open_file_folder) • [Knowledge](https://github.com/michielfbr#stuff-i-know-about-brain) • [Contact](https://github.com/michielfbr#find-me-dart)
 
 
 
