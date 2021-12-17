@@ -2,8 +2,6 @@
 
 [Me](https://github.com/michielfbr#my-name-is-michiel-handshake) [Projects](https://github.com/michielfbr#my-projects-open_file_folder) [Knowledge](https://github.com/michielfbr#stuff-i-know-about-brain) [Contact](https://github.com/michielfbr#find-me-dart)
 
-
-
 ## My name is Michiel :handshake:
 
 Recently I made the definitive decision to shift my carreer from live experiences to online experiences.
@@ -27,6 +25,7 @@ The backend uses Express, JWT, Bcrypt, a PostgreSQL database with Sequelize ORM.
 The goal of this project was to design and create a fullstack web app from scratch. Witing user stories, modeling a database, creating wireframes, build your own backend with al the neccesary endpoints, build your own frontend to talk to the backend and present the user enything it needs and finally style everything to your own liking.
 
 A big portion of work has gone into the form, where a user can add or edit an {ingredient} to the [ingredients ] nested in the {recipe}. In the backend the {recipe} is decomposed to the recipe table, the ingredients table and the join table wich holds the ingredients quantity and unit information.
+
 The app styling looks very clean and is responsive, wich is the result of quite some effort on details there.
 
 ### !Bored
