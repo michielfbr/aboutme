@@ -1,6 +1,6 @@
 # Hey! :raising_hand:
 
-[Me] (https://github.com/michielfbr#my-name-is-michiel-handshake) [Projects] (https://github.com/michielfbr#my-projects-open_file_folder) [Knowledge] (https://github.com/michielfbr#stuff-i-know-about-brain) [Contact] (https://github.com/michielfbr#find-me-dart)
+[Me](https://github.com/michielfbr#my-name-is-michiel-handshake) [Projects](https://github.com/michielfbr#my-projects-open_file_folder) [Knowledge](https://github.com/michielfbr#stuff-i-know-about-brain) [Contact](https://github.com/michielfbr#find-me-dart)
 
 
 
@@ -15,6 +15,8 @@ Freshly graduated now I am now ready to kick of the carreer!
 ## My projects :open_file_folder:
 
 ### MyRecipeBook :stew:
+
+![MyRecipeBook_demo](https://www.michielbrongers.nl/files/MyRecipeBook/MyRecipeBook_demo.gif)
 
 A place to store and browse through the recipes you collect.
 
